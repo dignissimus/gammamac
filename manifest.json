@@ -1,0 +1,18 @@
+{
+  "lang": "en-us",
+  "name": "Gammamac",
+  "short_name": "Gammamac",
+  "description": "Fast-paced arithmetic game",
+  "start_url": "/",
+  "background_color": "#fefefe",
+  "theme_color": "#3a355f",
+  "orientation": "any",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/gammamac.png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ]
+}

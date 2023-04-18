@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512mm"
+   height="512mm"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg309"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="gammamac.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview311"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.37072002"
+     inkscape:cx="814.63095"
+     inkscape:cy="542.18815"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs306" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#fcfcfc;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:round;stroke-opacity:1"
+       id="circle2462"
+       cx="256"
+       cy="256"
+       r="217.40866" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:round;stroke-opacity:1"
+       id="circle2460"
+       cx="293.72522"
+       cy="271.17661"
+       r="217.40866" />
+    <text
+       xml:space="preserve"
+       style="font-size:282.222px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';text-align:center;text-anchor:middle;fill:#0a0e0e;fill-opacity:1;stroke-width:0.258292;stroke-linecap:round"
+       x="256.00006"
+       y="346.16632"
+       id="text1096"><tspan
+         sodipodi:role="line"
+         style="font-size:282.222px;text-align:center;text-anchor:middle;fill:#0a0e0e;fill-opacity:1;stroke:none;stroke-width:0.258292;stroke-opacity:1"
+         x="256.00006"
+         y="346.16632"
+         id="tspan1148">+</tspan></text>
+  </g>
+</svg>
